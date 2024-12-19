@@ -3,9 +3,10 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+<!-- - 🎓 Estudando {seu curso} no {faculdade}. -->
+- 💼 Atualmente, estou em busca de oportunidades na área de Tecnologia da Informação, com foco em Desenvolvimento de Sistemas (DS).
+- 🌱 No momento, estou me aprofundando no conhecimento das tecnologias que já domino.
+
 
 ## Minhas Skills
 
@@ -46,10 +47,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades, enquanto continuo aprendendo e crescendo na área, com o objetivo de contribuir para soluções inovadoras e impactantes.
 </p>
 
+<!--
 <p align="left">
   🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
 </p>
@@ -57,9 +58,9 @@
 <p align="left">
   💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
 </p>
-
+-->
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Formas de contato: ⤵️
 </p>
 
 <p align="left">
