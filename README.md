@@ -21,6 +21,9 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300" align="right">
+
+
 **Utilidades**
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
