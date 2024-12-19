@@ -45,9 +45,9 @@
 
 <br/>
 
-[![iuricode](https://github-readme-stats.vercel.app/api?username=iuricode&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api?username=MatheusNoronhadaSilva&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusNoronhadaSilva&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Onde me encontrar
 
