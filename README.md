@@ -76,7 +76,7 @@ Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habi
   <a href="https://wa.me/5511971590561" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511971590561" alt="WhatsApp"/></a>
   <a href="https://icodethis.com" title="iCodeThis">
-  <img src="https://img.shields.io/badge/-iCodeThis-00C8A3?style=flat-square&labelColor=00C8A3&logo=github&logoColor=white&link=https://icodethis.com" alt="iCodeThis"/>
+  <img src="https://img.shields.io/badge/-iCodeThis-804edd?style=flat-square&labelColor=804edd&logo=github&logoColor=white&link=https://icodethis.com" alt="iCodeThis"/>
 </a>
 
 </p>
