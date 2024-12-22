@@ -57,6 +57,9 @@ Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habi
 
 <p align="left"> 
 Caso queira explorar mais do meu trabalho, aqui está uma plataforma onde é possível ver algumas montagens de telas usando diversas ferramentas
+</p>
+
+<p align="left">
   <a href="https://icodethis.com/Matheus10" title="iCodeThis">
   <img src="https://img.shields.io/badge/-iCodeThis-804edd?style=flat-square&labelColor=804edd&logo=github&logoColor=white&link=https://icodethis.com" alt="iCodeThis"/>
 </p>
