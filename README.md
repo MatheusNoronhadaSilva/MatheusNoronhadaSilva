@@ -75,7 +75,7 @@ Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habi
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-noronha-17b9a7313/" alt="LinkedIn"/></a>
   <a href="https://wa.me/5511971590561" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511971590561" alt="WhatsApp"/></a>
-  <a href="https://icodethis.com" title="iCodeThis">
+  <a href="https://icodethis.com/Matheus10" title="iCodeThis">
   <img src="https://img.shields.io/badge/-iCodeThis-804edd?style=flat-square&labelColor=804edd&logo=github&logoColor=white&link=https://icodethis.com" alt="iCodeThis"/>
 </a>
 
